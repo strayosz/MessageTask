@@ -14,6 +14,7 @@ public class Main {
             System.out.println(listUsers[i].getPassword() + "\n");
         }
         int a = 10;
+        int c = 0;
         int b = 10;
         System.out.println();
         //ajsklfalskjf;alskfja;lsjfal;fjasf
