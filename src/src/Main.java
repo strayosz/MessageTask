@@ -13,7 +13,7 @@ public class Main {
             System.out.println(listUsers[i].getNumber());
             System.out.println(listUsers[i].getPassword() + "\n");
         }
-        
+        int a = 10;
         System.out.println();
         //ajsklfalskjf;alskfja;lsjfal;fjasf
         //Вывод сообщений
