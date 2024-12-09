@@ -13,9 +13,9 @@ public class Main {
             System.out.println(listUsers[i].getNumber());
             System.out.println(listUsers[i].getPassword() + "\n");
         }
-
+        
         System.out.println();
-
+        //ajsklfalskjf;alskfja;lsjfal;fjasf
         //Вывод сообщений
         for (int i = 0; i < message.length; i++) {
             System.out.println(message[i]);
